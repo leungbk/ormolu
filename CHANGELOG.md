@@ -22,6 +22,8 @@
   both huge `.cabal` files and a large number of individual modules. [Issue
   897](https://github.com/tweag/ormolu/issues/897).
 
+* Switched to `ghc-lib-parser-9.4`.
+
 ## Ormolu 0.5.0.0
 
 * Changed the way operator fixities and precedences are inferred.
